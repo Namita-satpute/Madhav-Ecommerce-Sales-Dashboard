@@ -75,4 +75,4 @@ Enables better inventory planning.
 Improves sales and marketing strategy.
 Tracks overall ecommerce business performance.
 📸 Dashboard Preview
-
+https://github.com/Namita-satpute/Madhav-Ecommerce-Sales-Dashboard/blob/main/Madhav%20Ecommerce%20Sales%20snap.png
